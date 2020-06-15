@@ -1,0 +1,7 @@
+shopping_list
+
+apple
+orange
+banana
+cherry
+caarrot
